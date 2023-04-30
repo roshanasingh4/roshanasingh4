@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently learning at [Microverse](https://github.com/microverseinc/)
 - 🌱 I’m currently learning Ruby on Rails
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: [roshanasingh4@gmail.com] ()
+- 📫 How to reach me: [roshanasingh4@gmail.com](mailto:roshanasingh4@gmail.com)
 
 <!--
 - 🤔 I’m looking for help with ...
