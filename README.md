@@ -13,7 +13,7 @@ I'm always looking to connect with other developers and collaborate on interesti
 
 Here are some ideas to get you started:
 
-- 🔭 [I'm currently learning at Microverse](https://github.com/microverseinc/)
+- 🔭 I'm currently learning at [Microverse](https://github.com/microverseinc/)
 - 🌱 I’m currently learning Ruby on Rails
 - 👯 I’m looking to collaborate on open source projects.
 
