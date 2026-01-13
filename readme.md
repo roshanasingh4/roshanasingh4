@@ -14,7 +14,7 @@ I build products. I ship.
 ## Find me
 
 - GitHub: https://github.com/roshanasingh4
-- X/Twitter: https://twitter.com/roshanasingh4
+- X/Twitter: https://twitter.com/roshanasingh6
 - LinkedIn: https://linkedin.com/in/roshanasingh4
 
 ## The vibe
